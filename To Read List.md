@@ -14,3 +14,7 @@ http://rogeralsing.com/2013/08/11/angularjs-and-seo-part-1/ -> Angular SEO
 http://blog.jhades.org/
 
 #Inspiration
+
+#Startup
+https://www.linkedin.com/pulse/what-early-stage-startup-ceos-real-job-noam-bardin?trk=object-title
+https://www.linkedin.com/pulse/your-resume-all-time-classic-dos-donts-bernard-marr?trk=tod-home-art-list-small_1
