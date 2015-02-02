@@ -18,3 +18,6 @@ http://blog.jhades.org/
 #Startup
 https://www.linkedin.com/pulse/what-early-stage-startup-ceos-real-job-noam-bardin?trk=object-title
 https://www.linkedin.com/pulse/your-resume-all-time-classic-dos-donts-bernard-marr?trk=tod-home-art-list-small_1
+
+#ROR
+http://line25.com/articles/7-reasons-why-you-should-choose-ruby-on-rails
