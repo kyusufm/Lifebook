@@ -1,9 +1,6 @@
 
-##Angular 4 on 4
+##Angular
 
-##Weight Gain @february
-Gain weight +4 KG in 1 Month @[end of february]
-
-##Shalat tidak bolong
+##Full Pray
 
 ##Launch Floook

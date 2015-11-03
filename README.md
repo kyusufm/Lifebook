@@ -1,7 +1,7 @@
 # Lifebook
-Goals, Note, and some to do list
+Goals, Notes, and some to do list
 
-#Lifetime Goals
+# Lifetime Goals
 stay humble
 be kind
 value people

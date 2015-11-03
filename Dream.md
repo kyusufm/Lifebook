@@ -1,3 +1,5 @@
+#Get Master degree from best university
+
 #Data scientist
 
 #Violinist
@@ -13,5 +15,5 @@
 #Gives
 
 #Going abroad
-#Get Master degree from best university
+
 #Applied my skill to solve realworld problem
