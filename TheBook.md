@@ -1,8 +1,17 @@
-I am Muhammad Yusuf Kadir, Now Writing "THe Book of My Life"
+>I am Muhammad Yusuf Kadir, Now Writing "THe Book of My Life"
 
-#Eat better
 
-#Read More
+### Y Things i will do everyday in life
 
-#Write More
+####Eat better
+
+####Read More
+
+####Write More
+
+####Sleep Better
+
+####Pray-Full
+
+####Exercise More
 
